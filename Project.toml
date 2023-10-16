@@ -1,0 +1,8 @@
+name = "DDEPoincareScenario"
+uuid = "7a6affe2-e221-4bf0-b24d-ea81aca7e46b"
+authors = ["Olivier Hénot"]
+version = "1.0.0"
+
+[deps]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+RadiiPolynomial = "f2081a94-c849-46b6-8dc9-07bb90ed72a9"
